@@ -1,5 +1,5 @@
-# Portafolio de KarolJaneth 
-## Proyecto responsivo realizado con Bootstrap 5
+# Pinterest cloon de KarolJaneth 
+## Proyecto responsivo realizado con HTML Y CSS
 
 Proyecto creado durante el bootcamp de Tecnolochicas PRO, es adaptable a distintos dispositivos o tamaños de pantalla.
 El proposito de esta pagina web es mostrar mi portafolio de proyecto como desarrolladora web.
